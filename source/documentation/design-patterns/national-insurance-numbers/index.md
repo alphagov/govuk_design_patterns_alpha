@@ -7,7 +7,7 @@ This guide explains how to ask users to give you their National Insurance number
 
 Use a single text field labelled ‘National Insurance number’, like this:
 
-![](/documentation/design-patterns/national-insurance-numbers/national-insurance-number-example_2x.png)
+![Example National Insurance number field](/documentation/design-patterns/national-insurance-numbers/national-insurance-number-example_2x.png)
 
 You should also:
 
