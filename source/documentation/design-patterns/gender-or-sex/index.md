@@ -11,7 +11,7 @@ If you do need to ask, use ‘sex’ when you need biological data (for example,
 
 Here’s an example of how to ask about gender:
 
-![](/documentation/design-patterns/gender-or-sex/gender.png)
+![Example of a gender form question](/documentation/design-patterns/gender-or-sex/gender.png)
 
 If you have to ask about gender, you should:
 
