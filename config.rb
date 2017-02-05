@@ -38,6 +38,7 @@ end
 activate :autoprefixer
 activate :sprockets
 activate :syntax
+activate :vcs_time
 
 ###
 # Helpers
