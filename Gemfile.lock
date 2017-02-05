@@ -110,6 +110,8 @@ GEM
     middleman-syntax (3.0.0)
       middleman-core (>= 3.2)
       rouge (~> 2.0)
+    middleman-vcs-time (0.0.5)
+      middleman-core (~> 4.0)
     mini_portile2 (2.1.0)
     minitest (5.10.1)
     multi_json (1.12.1)
@@ -154,6 +156,7 @@ DEPENDENCIES
   middleman-livereload
   middleman-sprockets (~> 4.0.0)
   middleman-syntax (~> 3.0.0)
+  middleman-vcs-time
   redcarpet (~> 3.3.2)
   table_of_contents!
   tzinfo-data
